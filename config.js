@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6282138919347'] 
+global.owner = ['62895336008585'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Helga Zexs'
-global.numberowner = '6282138919347'
-global.instagram = 'https://instagram.com/helga_store20'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '081398860278'
-global.pulsa = '082138919347'
-global.gopay = '081398860278'
+global.nameowner = 'Agat & naila'
+global.numberowner = '6283121562064'
+global.instagram = 'https://instagram.com/agatdwi_subakti'
+global.github = 'https://github.com/AgatZCode'
+global.dana = '083121562064'
+global.pulsa = '083121562064'
+global.gopay = '083121562064'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ShiroBot-Md'
-global.gc = 'https://chat.whatsapp.com/BxrDMvfLeKTHtvAWKHWZbZ'
-global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Naila P.A BotZ'
+global.gc = 'https://linktr.ee/growdie'
+global.web = 'https://github.com/AgatZCode' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
+global.fotonya1 = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0uG8EkD1r1MXuyIPNJlbz4wQLsiqLJTVpQ&usqp=CAU' //ganti jadi foto bot mu
+global.fotonya2 = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0uG8EkD1r1MXuyIPNJlbz4wQLsiqLJTVpQ&usqp=CAU' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Zuka Beta'
+global.wm = 'Naila P.A'
 global.watermark = wm
-global.wm2 = '                     「 Zuka Beta あ⁩ 」'
-global.wm3 = '⫹⫺ Zuka Beta'
+global.wm2 = '                     「 AgatZ & Naila あ⁩ 」'
+global.wm3 = '⫹⫺ Agat my ayang'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Helga Zexs'
+global.author = '© Naila P.A'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix

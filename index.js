@@ -13,7 +13,7 @@ CFonts.say('BOT BY\n Helga', {
   colors: ['blueBright','yellowBright'],                                        font: 'block',
   align: 'center',
 })
-CFonts.say(`BY Helga Zexs`, {                                            
+CFonts.say(`BY Naila : Help AgatZ`, {                                            
 colors: ['yellow'],                                                           
 font: 'console',                                                              align: 'center',
 })
